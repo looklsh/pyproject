@@ -1,0 +1,1 @@
+activate testenv && jupyter notebook .

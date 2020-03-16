@@ -1,0 +1,20 @@
+beer.jpg: 모집, 분홍색
+buddy.jpg: 모집, 파랑색
+busanlight: 축제, 밤하늘
+butterfly: 축제, 나비, 레몬색
+food: 모집, 실사
+four: 모집, 하늘, 파랑색, 자주색
+gep: 모집, 우주, 별, 
+jobfair: 박람회, 연예인, 일자리
+kia: 실사, 모집, 
+mangobeer: 모집, 노란색, 
+media: 축제, 파랑색, 빨강색, 줄무늬
+music: 모집, 초록색, 
+soju: 모집, 노란색
+storytelling: 모집, 연두색
+tmon: 모집, 캐릭터
+ubanbrush: 모집, 노란색
+we: 모집, 노란색
+worldlight: 행사, 파랑색
+yahoo: 모집, 만화, 하얀색
+youth: 모집, illust
